@@ -1,6 +1,8 @@
 // Archivos Bases
 @import 'base/variables';
+@import 'base/mixins';
 @import 'base/normailze';
 @import 'base/globales';
 
-
+// Layouts
+@import 'layout/header';
